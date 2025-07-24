@@ -26,3 +26,7 @@ Install Gnome-Tweaks and Gnome-Extension-Manager
 GTK Theme: Adwaita
 
 Icon Theme: [WhiteSur-Dark](https://github.com/vinceliuice/whitesur)
+
+### Other Config
+
+Install [Oh My ZSH!](https://ohmyz.sh/) in which I use the default theme. 
